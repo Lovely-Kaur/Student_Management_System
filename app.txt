@@ -1,1 +1,4 @@
 This is app file 
+
+Feature: Enroll Student
+Feilds: Name, id, course
