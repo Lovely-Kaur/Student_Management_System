@@ -1,6 +1,6 @@
 This is app file 
 
 Feature: Enroll Student
-Feilds: Name, id, course
+Feilds: Name, idi, course
 
-This is for enrollment feature
+This is modification did in add new geature branch
